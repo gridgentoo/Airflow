@@ -3,12 +3,12 @@
 https://drive.google.com/drive/folders/1U_H8FNM3gpRBf_r1cUSuCbXzgTivpXyO
 
 Структура классов в проекте AirFlow
-AirFlowMesosScheduler
-HiveToMySQLTranfer
-HiveToDruid
-HdfsSensorRegex
-SparkJDBCHook
-GoogleCloudeBaseHook
+* AirFlowMesosScheduler
+* HiveToMySQLTranfer
+* HiveToDruid
+* HdfsSensorRegex
+* SparkJDBCHook
+* GoogleCloudeBaseHook
 https://docs.google.com/document/d/1r6I0dnWTJl_6O4y7SscEU4GJ-EtFRtl75fnn1lb_U_E/edit
 
 ![Image alt](https://i2.wp.com/www.datio.com/wp-content/uploads/2017/01/Mesos1.png?resize=653%2C304)
